@@ -1,0 +1,21 @@
+#+OPTIONS: toc:nil
+
+* About
+
+RGBS video & audio output board for Raspberry Pi.
+
+| [[render_top.png?raw=true]] | [[render_bottom.png?raw=true]] |
+
+* Features
+
+- n-bit R-2R video DAC with buffered 75Ω output
+- Composite video sync generator using XNOR logic
+- Low-pass reconstruction filter audio DAC with buffered output
+ 
+Tested working with Raspberry Pi 4.
+
+* License
+
+Circuit schematic and PCB layout are licensed under CERN-OHL-S v2.
+
+See [[LICENSE.txt]].
