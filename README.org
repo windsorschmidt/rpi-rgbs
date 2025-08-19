@@ -4,15 +4,17 @@
 
 TV-compatible RGBS video output board for Raspberry Pi.
 
-| [[render_top.png?raw=true]] | [[render_bottom.png?raw=true]] |
+[[rpi-rgbs.png?raw=true]]
 
 * Features
 
-- 6-bit R-2R video DAC with buffered 75Ω output on DE-15 (VGA style) connector
-- Composite video sync generator using XNOR logic
-- Low-pass reconstruction filter audio DAC output on 3.5 phono jack
- 
-Tested working with Raspberry Pi 4.
+- 6-bit R-2R video DAC with buffered 75Ω output on VGA (DE-15) connector
+- Composite video sync generator using XNOR logic gates
+- Low-pass reconstruction filter audio DAC output on 3.5" phono jack
+
+* Status
+
+Revision 3 tested working with a Raspberry Pi 4.
 
 * License
 
